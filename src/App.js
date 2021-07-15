@@ -1,5 +1,6 @@
 import React from 'react'
-import Homepage from './Homepage'
+import Homepage from './page/homepage/Homepage'
+import {Switch,Route} from 'react-router';
 function App() {
   return (
     <div>
